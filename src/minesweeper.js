@@ -1,3 +1,5 @@
+//HERE IS My COMMENT
+
 const generatePlayerBoard = (numberOfRows, numberOfColumns) => {
   const board = [];
 
