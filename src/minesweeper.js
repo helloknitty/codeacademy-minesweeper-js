@@ -1,4 +1,4 @@
-//HERE IS My COMMENT
+//HERE IS June 24 COMMENT
 
 const generatePlayerBoard = (numberOfRows, numberOfColumns) => {
   const board = [];
